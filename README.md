@@ -3,7 +3,7 @@
 Este es el proyecto iniciar para crear aplicaciones utilizando webpack.
 
 ### Notas
-Recordar reconstruir los modulos de Node crear
+Recordar reconstruir los modulos de Node
 
 ````
 Npm install
